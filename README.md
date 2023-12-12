@@ -1,6 +1,5 @@
 # Docker
 Docker
 <br/><br/>
- <p align="center">
-  <img src="/ValueType/Images/MyLogo.png" alt="Your Image Description">
-</p>
+<br/><br/>
+![Alt Text](https://drive.google.com/uc?id=1MQLa180MHnL35SrY47JNq7_gBlor9xUe)
